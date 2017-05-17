@@ -1,4 +1,4 @@
-package ma.pp.snippet;
+package ma.omaroun.snippet;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
