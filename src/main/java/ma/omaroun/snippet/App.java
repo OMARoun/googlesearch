@@ -13,9 +13,10 @@ public class App {
 
 	public static void main(String[] args) throws IOException {
 		
-		GoogleSearchResult result = GoogleSearch.search("omar el alaoui aboufaris", 5);
-		
+		GoogleSearchResult result = GoogleSearch.search("\"elazizi.elalaoui@gmail.com\"", 5);
+
 		System.out.println(result);
+
 	}
 
 }

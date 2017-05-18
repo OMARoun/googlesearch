@@ -12,6 +12,7 @@ public class GoogleSearchResult {
 
 	public GoogleSearchResult() {
 		items = new ArrayList<GoogleSearchItem>();
+		size = 0L;
 	}
 
 	/**
